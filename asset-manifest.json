@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-songs/static/js/main.036108ba.chunk.js",
+    "main.js.map": "/react-songs/static/js/main.036108ba.chunk.js.map",
+    "runtime-main.js": "/react-songs/static/js/runtime-main.90f7588e.js",
+    "runtime-main.js.map": "/react-songs/static/js/runtime-main.90f7588e.js.map",
+    "static/js/2.79aaac03.chunk.js": "/react-songs/static/js/2.79aaac03.chunk.js",
+    "static/js/2.79aaac03.chunk.js.map": "/react-songs/static/js/2.79aaac03.chunk.js.map",
+    "index.html": "/react-songs/index.html",
+    "precache-manifest.33f2b890c110756d50360b6264423ca2.js": "/react-songs/precache-manifest.33f2b890c110756d50360b6264423ca2.js",
+    "service-worker.js": "/react-songs/service-worker.js",
+    "static/js/2.79aaac03.chunk.js.LICENSE": "/react-songs/static/js/2.79aaac03.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90f7588e.js",
+    "static/js/2.79aaac03.chunk.js",
+    "static/js/main.036108ba.chunk.js"
+  ]
+}
